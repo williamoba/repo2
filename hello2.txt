@@ -1,12 +1,12 @@
 asdfs
-<<<<<<< HEAD
+
 zuolexiugai  hellow2
 zaici gaidong 
-=======
+
 
 asdfa
 asdf
 
 zuolexiugai  hellow2
 
->>>>>>> 441eba9d0a9793ea3441b86c045c3ccab3ecf8cb
+441eba9d0a9793ea3441b86c045c3ccab3ecf8cb
